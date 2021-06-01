@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Vitor, i'm a normal brazilian
+- 👀 I’m currently learning elixir, java, c++, sql.
+- 📫 How to reach me: Follow me on instagram @u.vito.duarte
