@@ -32,6 +32,6 @@
 <div>
   <a href="https://github.com/Vitor-labs">
   
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-labs&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-labs&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
