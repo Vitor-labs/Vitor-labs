@@ -1,7 +1,7 @@
 <div>
   <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />  
-  <h2> HELLO THERE 👋 👋 👋 <h2>
-  - (ಠ_ಠ) Hi, I’m Vitor, just a young latin-american guy. ¯\_(ツ)_/¯
+  <h2> IT'S ME, VITOR 👋 👋 👋 <h2>
+  - (ಠ_ಠ) Hello There, just a young latin-american guy here. ¯\_(ツ)_/¯
   
     I made projects for fun 👀
     I lose some time letting the things pretty
