@@ -2,8 +2,9 @@
   <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />  
   <br>
   <h2 align="left"> IT'S ME, VITOR 👋 👋 👋 <h2>
-    <li>(ಠ_ಠ) Hello There, just a young latin-american guy here. ¯\_(ツ)_/¯</li>
-    <li>I’m currently focused in Web Development.</li>
+(ಠ_ಠ) Hello There, just a young latin-american guy here. ¯\_(ツ)_/¯
+
+I’m currently focused in Web Development.
     <br>
 
 - I make projects for fun 👀
