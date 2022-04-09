@@ -4,6 +4,7 @@
   <h2> IT'S ME, VITOR 👋 👋 👋 <h2>
   <br>
   - (ಠ_ಠ) Hello There, just a young latin-american guy here. ¯\_(ツ)_/¯
+  -
   - I’m currently focused in Web Development.
   
     I made projects for fun 👀
