@@ -1,10 +1,11 @@
 <h1 align="center">HELLO, IT'S ME, VITOR 👋 👋 👋</h1>
-<h3 align="right" >My Profile Views:</h3>
-<img align="right" src="https://komarev.com/ghpvc/?username=Vitor-labs&label=Profile%20views&color=0e75b6&style=flat"/>
-<h3 Student of the Federal University of Ceará, BRAZIL 🇧🇷 </h3>
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="190"/>
+<div align=center>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Information+Systems+Student;Back-End+Developer;Problem+Solver;Freelancer;" alt="Headline"/>
+</div>
+<h3> Student of the Federal University of Ceará, BRAZIL 🇧🇷 </h3>
 
 (ಠ_ಠ) Hello There, just a young latin-american guy here. ¯\_(ツ)_/¯
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="190"/>
 
 I’m currently focused in Web Development.
 - I make projects for fun 👀
@@ -12,19 +13,18 @@ I’m currently focused in Web Development.
 - It's not 'gambiarra', just technical adjustments
 
 <div>
-  <h2 align="center"><strong>Find me There:</strong></h2>
   <div align="center">
+    <h2><strong>Find me There:</strong></h2>
     (☞ﾟヮﾟ)☞ 
     <a href="https://www.instagram.com/u.vito.duarte/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:v02hx10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/vitor-hugo-1601bb21a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     ☜(ﾟヮﾟ☜)
   </div>
+  <div>
     <br>
-      <div align="top">
-      <img align="right" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor-labs&layout=compact&langs_count=7&theme=tokyonight"/>
-      <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=Vitor-labs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    </div>
+      <img align="left" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor-labs&layout=compact&langs_count=7&theme=tokyonight"/>
+      <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api?username=Vitor-labs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </div>
 </div>
   
@@ -35,7 +35,6 @@ I’m currently focused in Web Development.
   <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  
 </div>
       
 <div>
