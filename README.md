@@ -1,22 +1,23 @@
 <div>
   <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />  
   <br>
-  <h2> IT'S ME, VITOR 👋 👋 👋 <h2>
-  <br>
-  - (ಠ_ಠ) Hello There, just a young latin-american guy here. ¯\_(ツ)_/¯
-  -
-  - I’m currently focused in Web Development.
-  
-    I made projects for fun 👀
-    I lose some time letting the things pretty
-    It's not gambiarra, just technical adjustments
-    
-<h3><strong>Find me Here</strong><h3>
-  (☞ﾟヮﾟ)☞
+  <h2 align="left"> IT'S ME, VITOR 👋 👋 👋 <h2>
+    <li>(ಠ_ಠ) Hello There, just a young latin-american guy here. ¯\_(ツ)_/¯</li>
+    <li>I’m currently focused in Web Development.</li>
+    <br>
+
+- I make projects for fun 👀
+- I lose some time letting the things ✨*pretty* ✨
+- It's not gambiarra, just technical adjustments
+
+<h3><strong>Find me There:</strong><h3>
+<div align="center">
+  (☞ﾟヮﾟ)☞ 
   <a href="https://www.instagram.com/u.vito.duarte/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:v02hx10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-hugo-1601bb21a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-☜(ﾟヮﾟ☜)
+  ☜(ﾟヮﾟ☜)
+</div>
 </div>
   
 <div style="display: inline_block"><br>
