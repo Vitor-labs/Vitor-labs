@@ -1,3 +1,4 @@
+<!-- Portfolio Presentation -->
 <h1 align="center">HELLO, IT'S ME, VITOR 👋 👋 👋</h1>
 <div align=center>
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Information+Systems+Student;Back-End+Developer;Problem+Solver;Freelancer;" alt="Headline"/>
@@ -12,6 +13,7 @@ I’m currently focused in Web Development.
 - I lose some time letting the things ✨*pretty* ✨
 - It's not 'gambiarra', just technical adjustments 🛠
 
+<!-- Portfolio Contact Grid -->
 <div>
   <div align="center">
     <h2><strong>Find me There:</strong></h2>
@@ -22,22 +24,18 @@ I’m currently focused in Web Development.
     ☜(ﾟヮﾟ☜)
   </div>
   <div align="center">
-    <br>
-      <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor-labs&layout=compact&langs_count=7&theme=tokyonight"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Vitor-labs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor-labs&layout=compact&langs_count=7&theme=tokyonight" />
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Vitor-labs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <br/>
   </div>
 </div>
-<h3><strong>Currently learning:</strong><h3>
-<h3>MERN stack</h3>
-<div align="top-left">
-  <img height="165em" src="https://user-images.githubusercontent.com/75076312/164616814-c4fa6b0a-d74b-46bc-a706-7baf07d72e53.png" />
-</div>
-<h3>FARM stack</h3>
-<div align="down-left">
-  <img height="165em" src="https://miro.medium.com/max/300/1*aGnLvSUPsxgvvai8lxbpBA.jpeg" />
-</div>
-  <table align="top">
-    <h3><strong>Other Skills:</strong><h3>
+
+<h3><strong>Currently Learning</strong><h3>
+<img height="150em" src="https://user-images.githubusercontent.com/75076312/164616814-c4fa6b0a-d74b-46bc-a706-7baf07d72e53.png" />
+<img height="150em" src="https://miro.medium.com/max/300/1*aGnLvSUPsxgvvai8lxbpBA.jpeg" />
+  
+  <h3 align="left"><strong>Other Skills:</strong><h3>
+  <table align="left">
     <tr>
       <th><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/></th>
       <th><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></th>
@@ -62,7 +60,5 @@ I’m currently focused in Web Development.
       <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" /></td>
       <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" /></td>
     </tr>
-  </table>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-labs&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-     
+  </table>     
+  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-labs&layout=compact&langs_count=6&theme=tokyonight" /> 
