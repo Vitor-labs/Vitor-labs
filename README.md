@@ -31,11 +31,11 @@ I’m currently focused in Web Development.
 </div>
 
 <h3><strong>Currently Learning</strong><h3>
-<img height="150em" src="https://user-images.githubusercontent.com/75076312/164616814-c4fa6b0a-d74b-46bc-a706-7baf07d72e53.png" />
-<img height="150em" src="https://miro.medium.com/max/300/1*aGnLvSUPsxgvvai8lxbpBA.jpeg" />
-  
-  <h3 align="left"><strong>Other Skills:</strong><h3>
-  <table align="left">
+<div align="center">
+  <img height="150em" src="https://user-images.githubusercontent.com/75076312/164616814-c4fa6b0a-d74b-46bc-a706-7baf07d72e53.png" />
+  <img height="150em" src="https://res.cloudinary.com/practicaldev/image/fetch/s--JbQUn8ex--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/dl31pl15hyopctr0r2zc.png" />
+  <h3><strong>Other Skills:</strong><h3>
+  <table>
     <tr>
       <th><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/></th>
       <th><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></th>
@@ -61,4 +61,5 @@ I’m currently focused in Web Development.
       <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" /></td>
     </tr>
   </table>     
-  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-labs&layout=compact&langs_count=6&theme=tokyonight" /> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-labs&layout=compact&langs_count=6&theme=tokyonight" /> 
+</div
