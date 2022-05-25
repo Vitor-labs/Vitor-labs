@@ -3,10 +3,10 @@
 <div align=center>
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Information+Systems+Student;Back-End+Developer;Problem+Solver;Freelancer;" alt="Headline"/>
 </div>
-<h3> Student of the Federal University of Ceará, BRAZIL 🇧🇷 </h3>
 
+<h3> Student of the Federal University of Ceará, BRAZIL 🇧🇷 </h3>
+<img align="right" width="190" heigt="190" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"/>
 (ಠ_ಠ) Hello There, just a young latin-american guy here. ¯\_(ツ)_/¯
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="190"/>
 
 I’m currently focused in Web Development.
 - I make projects for fun 👀
