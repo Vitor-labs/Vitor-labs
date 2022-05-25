@@ -5,8 +5,9 @@
 </div>
 
 <h3> Student of the Federal University of Ceará, BRAZIL 🇧🇷 </h3>
-<img align="right" width="190" heigt="190" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"/>
 (ಠ_ಠ) Hello There, just a young latin-american guy here. ¯\_(ツ)_/¯
+'
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" align="right" width="190">
 
 I’m currently focused in Web Development.
 - I make projects for fun 👀
