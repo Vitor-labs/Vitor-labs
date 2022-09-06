@@ -9,7 +9,7 @@
 '
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" align="right" width="190">
 
-I’m currently focused in Web Development.
+Currently focused in Web Development and Data Science
 - I make projects for fun 👀
 - I lose some time letting the things ✨*pretty* ✨
 - It's not 'gambiarra', just technical adjustments 🛠
@@ -24,6 +24,7 @@ I’m currently focused in Web Development.
     <a href="https://www.linkedin.com/in/vitor-hugo-1601bb21a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     ☜(ﾟヮﾟ☜)
   </div>
+  <br/>
   <div align="center">
       <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor-labs&layout=compact&langs_count=7&theme=tokyonight" />
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Vitor-labs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -57,9 +58,9 @@ I’m currently focused in Web Development.
     </tr>
     <tr>
       <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></td>
-      <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" /></td>
-      <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" /></td>
-      <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" /></td>
+      <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></td>
+      <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/></td>
+      <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></td>
     </tr>
   </table>     
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-labs&layout=compact&langs_count=6&theme=tokyonight" /> 
