@@ -35,29 +35,29 @@ Currently focused in Web Development and Data Science
   <br/>
 </div>
 
-<div align="center">
-  <h2><strong>Skills:</strong><h2>
-  <table align="left">
-    <tr>
-      <th><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/></th>
-      <th><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></th>
-      <th><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></th>
-      <th><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></th>
-      <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></td>
-      <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /></td>
-      <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" /></td>
-      <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" /></td>
-    </tr>
-    <tr>
-      <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /></td>
-      <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" /></td>
-      <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /></td>
-      <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></td>
-      <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></td>
-      <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></td>
-      <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/></td>
-      <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></td>
-    </tr>
-  </table>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-labs&layout=compact&langs_count=6&theme=tokyonight" /> 
-</div>
+<h2><strong>Skills:</strong><h2>
+<table align="left">
+  <tr>
+    <th><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/></th>
+    <th><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></th>
+    <th><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></th>
+    <th><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></th>
+    <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></td>    
+  </tr>
+  <tr>
+    <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /></td>
+    <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" /></td>
+    <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /></td>
+    <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" /></td>
+    <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /></td>
+  </tr>
+  <tr>
+    <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></td>
+    <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></td>
+    <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></td>
+    <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/></td>
+    <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></td>
+  </tr>
+</table>
+
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-labs&layout=compact&langs_count=6&theme=tokyonight" /> 
