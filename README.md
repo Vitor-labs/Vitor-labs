@@ -7,11 +7,14 @@
 <h3> Student of the Federal University of Ceará, BRAZIL 🇧🇷 </h3>
 (ಠ_ಠ) Hello There, just a young latin-american guy here. ¯\_(ツ)_/¯
 '
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" align="right" width="190">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" align="right" width="250">
 
 Currently focused in Web Development and Data Science
+- 🌱 I’m currently learning Tensor-Flow, Django.
+- 💬 Ask me about DataSci, M.L, Football
 - I make projects for fun 👀
 - I lose some time letting the things ✨*pretty* ✨
+- 📄 Know about my <a href="https://docs.google.com/document/d/1gwlKnY_nOcRDtwe2d0WqO1LwizWKVxY_hS0xwLWltgk/edit?usp=sharing">experiences</a>
 - It's not 'gambiarra', just technical adjustments 🛠
 
 <!-- Portfolio Contact Grid -->
