@@ -29,16 +29,15 @@ Currently focused in Web Development and Data Science
   </div>
   <br/>
   <div align="center">
-      <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor-labs&layout=compact&langs_count=7&theme=tokyonight" />
-      <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Vitor-labs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-      <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-labs&layout=compact&langs_count=6&theme=tokyonight" /> 
-    <br/>
+      <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor-labs&layout=compact&langs_count=7&theme=tokyonight" />
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Vitor-labs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   </div>
+  <br/>
 </div>
 
 <div align="center">
   <h2><strong>Skills:</strong><h2>
-  <table>
+  <table align="left">
     <tr>
       <th><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/></th>
       <th><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></th>
@@ -60,4 +59,5 @@ Currently focused in Web Development and Data Science
       <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></td>
     </tr>
   </table>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-labs&layout=compact&langs_count=6&theme=tokyonight" /> 
 </div
