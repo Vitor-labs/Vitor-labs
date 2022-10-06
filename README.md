@@ -3,7 +3,7 @@
 <div align=center>
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Information+Systems+Student;Back-End+Developer;Problem+Solver;Freelancer;" alt="Headline"/>
 </div>
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=vitor-labs&label=Profile%20views&color=0e75b6&style=flat" alt="vitor-labs" /> </p>
 <h3> Student of the Federal University of Ceará, BRAZIL 🇧🇷 </h3>
 (ಠ_ಠ) Hello There, just a young latin-american guy here. ¯\_(ツ)_/¯
 '
@@ -59,5 +59,5 @@ Currently focused in Web Development and Data Science
       <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></td>
     </tr>
   </table>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-labs&layout=compact&langs_count=6&theme=tokyonight" /> 
-</div
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-labs&layout=compact&langs_count=6&theme=tokyonight" /> 
+</div>
