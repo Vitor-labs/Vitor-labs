@@ -1,7 +1,7 @@
 <!-- Portfolio Presentation -->
 <h1 align="center">HELLO, IT'S ME, VITOR 👋 👋 👋</h1>
 <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Information+Systems+Student;Back-End+Developer;Problem+Solver;Freelancer;" alt="Headline"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Machine+Learning;Data+Engineer;Data+Scientist;Problem+Solver;" alt="Headline"/>
 </div>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vitor-labs&label=Profile%20views&color=0e75b6&style=flat" alt="vitor-labs" /> </p>
 <h3> Student of the Federal University of Ceará, BRAZIL 🇧🇷 </h3>
@@ -10,10 +10,10 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" align="right" width="250">
 
 Currently focused in Web Development and Data Science
-- 🌱 I’m currently learning Tensor-Flow, Django.
+- 🌱 I’m currently learning MLOps, GCP and DataBricks.
 - 💬 Ask me about DataSci, M.L, Football
 - I make projects for fun 👀
-- I lose some time letting the things ✨*pretty* ✨
+- I lose some time letting the things ✨*pretty* ✨ and making some 📊 charts 📈
 - 📄 Know about my <a href="[https://docs.google.com/document/d/1gwlKnY_nOcRDtwe2d0WqO1LwizWKVxY_hS0xwLWltgk/edit?usp=sharing](https://docs.google.com/document/d/1wrUB81GhXZv-RPv8QdIupv79s5oTY2sKYvEZY221ax0/edit?usp=sharing)">experiences</a>
 - It's not 'gambiarra', just technical adjustments 🛠
 
