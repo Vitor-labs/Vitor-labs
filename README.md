@@ -14,7 +14,7 @@ Currently focused in Web Development and Data Science
 - 💬 Ask me about DataSci, M.L, Football
 - I make projects for fun 👀
 - I lose some time letting the things ✨*pretty* ✨ and making some 📊 charts 📈
-- 📄 Know about my <a href="[https://docs.google.com/document/d/1gwlKnY_nOcRDtwe2d0WqO1LwizWKVxY_hS0xwLWltgk/edit?usp=sharing](https://docs.google.com/document/d/1wrUB81GhXZv-RPv8QdIupv79s5oTY2sKYvEZY221ax0/edit?usp=sharing)">experiences</a>
+- 📄 Know about my <a href="https://docs.google.com/document/d/1wrUB81GhXZv-RPv8QdIupv79s5oTY2sKYvEZY221ax0/edit?usp=sharing">experiences</a>
 - It's not 'gambiarra', just technical adjustments 🛠
 
 <!-- Portfolio Contact Grid -->
