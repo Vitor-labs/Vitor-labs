@@ -44,7 +44,7 @@ Currently focused in M.L Engineering and Data Science
         <th><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/></th>
         <th><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></th>
         <th><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></th>
-        <th><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></th>
+        <th><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></th>
         <td><img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></td>    
       </tr>
       <tr>
