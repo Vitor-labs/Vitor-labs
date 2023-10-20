@@ -9,7 +9,7 @@
 '
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" align="right" width="250">
 
-Currently focused in Web Development and Data Science
+Currently focused in M.L Engineering and Data Science
 - 🌱 I’m currently learning MLOps, GCP and DataBricks.
 - 💬 Ask me about DataSci, M.L, Football
 - I make projects for fun 👀
@@ -35,6 +35,7 @@ Currently focused in Web Development and Data Science
   <br/>
 </div>
 
+<!-- Skills Grid -->
 <div align="center">
   <h2><strong>Skills:</strong><h2>
   <div style="display:inline-block;">
