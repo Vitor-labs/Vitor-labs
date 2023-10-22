@@ -63,4 +63,4 @@ Currently focused in M.L Engineering and Data Science
   </tr>
 </table>
 
-<img align="right" width="330" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-labs&layout=compact&langs_count=6&theme=tokyonight"/>
+<img align="right" width="340" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-labs&layout=compact&langs_count=6&theme=tokyonight"/>
