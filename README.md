@@ -1,12 +1,11 @@
 <!-- Portfolio Presentation -->
-<h1 align="center">HELLO, IT'S ME, VITOR 👋 👋 👋</h1>
 <div align=center>
+<h1 align="center">HELLO, IT'S ME, VITOR 👋 👋 👋</h1>
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Machine+Learning;Data+Engineer;Data+Scientist;Problem+Solver;" alt="Headline"/>
 </div>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vitor-labs&label=Profile%20views&color=0e75b6&style=flat" alt="vitor-labs" /> </p>
 <h3> Student of the Federal University of Ceará, BRAZIL 🇧🇷 </h3>
 (ಠ_ಠ) Hello There, just a young latin-american guy here. ¯\_(ツ)_/¯
-'
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" align="right" width="250">
 
 Currently focused in M.L Engineering and Data Science
@@ -36,8 +35,8 @@ Currently focused in M.L Engineering and Data Science
 </div>
 
 <!-- Skills Grid -->
-<h2><strong>Skills:</strong></h2>
-<table style="float: left; margin-right: 20px;">
+<h2 align="center"><strong>Skills:</strong></h2>
+<table align="left" border="1">
   <tr>
     <th><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/></th>
     <th><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></th>
@@ -61,6 +60,4 @@ Currently focused in M.L Engineering and Data Science
   </tr>
 </table>
 
-<div style="float: right;">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-labs&layout=compact&langs_count=6&theme=tokyonight" /> 
-</div>
+<img align="right" width="380" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-labs&layout=compact&langs_count=6&theme=tokyonight"/>
