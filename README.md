@@ -16,24 +16,6 @@ Currently focused in M.L Engineering and Data Science
 - 📄 Know about my <a href="https://docs.google.com/document/d/1wrUB81GhXZv-RPv8QdIupv79s5oTY2sKYvEZY221ax0/edit?usp=sharing">experiences</a>
 - It's not 'gambiarra', just technical adjustments 🛠
 
-<!-- Portfolio Contact Grid -->
-<div>
-  <div align="center">
-    <h2><strong>Find me There:</strong></h2>
-    (☞ﾟヮﾟ)☞ 
-    <a href="https://www.instagram.com/u.vito.duarte/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="mailto:v02hx10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/uvitohugo"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    ☜(ﾟヮﾟ☜)
-  </div>
-  <br/>
-  <div align="center">
-      <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor-labs&layout=compact&langs_count=7&theme=tokyonight" />
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Vitor-labs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  </div>
-  <br/>
-</div>
-
 <!-- Skills Grid -->
 <h2 align="center"><strong>Skills:</strong></h2>
 
@@ -73,3 +55,21 @@ Currently focused in M.L Engineering and Data Science
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" /> | 
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" /> | 
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" />
+
+<!-- Portfolio Contact Grid -->
+<div>
+  <div align="center">
+    <h2><strong>Find me There:</strong></h2>
+    (☞ﾟヮﾟ)☞ 
+    <a href="https://www.instagram.com/u.vito.duarte/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="mailto:v02hx10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/uvitohugo"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    ☜(ﾟヮﾟ☜)
+  </div>
+  <br/>
+  <div align="center">
+      <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor-labs&layout=compact&langs_count=7&theme=tokyonight" />
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Vitor-labs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  </div>
+  <br/>
+</div>
