@@ -38,8 +38,7 @@ Currently focused in M.L Engineering and Data Science
 <h2 align="center"><strong>Skills:</strong></h2>
 
 ### Data Science & MLOps
-
-**Techniques:** Supervised & Not Supervised & Deep & Continuous Learning  
+**Techs:** Supervised & Not Supervised & Deep & Continuous Learning  
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"/> | 
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" /> | 
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" /> | 
@@ -49,8 +48,7 @@ Currently focused in M.L Engineering and Data Science
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
 
 ### Databases
-
-**Techniques:** Data Modeling, Schema Evolution, Migrations  
+**Techs:** Data Modeling, Schema Evolution, Migrations  
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/> | 
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" /> | 
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> | 
@@ -59,7 +57,7 @@ Currently focused in M.L Engineering and Data Science
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" />
 
 ### Data Engineering
-**Techniques:** ETL, Streaming & Data Quality  
+**Techs:** ETL, Streaming & Data Quality  
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" /> |
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" /> |
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" /> |
@@ -68,8 +66,7 @@ Currently focused in M.L Engineering and Data Science
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
 
 ### Cloud & DevOps
-
-**Techniques:** IaC, CI/CD, Containers and Orchestration  
+**Techs:** IaC, CI/CD, Containers and Orchestration  
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/> | 
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" /> | 
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" /> | 
